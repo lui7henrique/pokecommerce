@@ -10,10 +10,6 @@
     "make:context": "yarn plop --plopfile .generators/context.plopfile.js"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.2.1",
-    "@emotion/react": "^11",
-    "@emotion/styled": "^11",
-    "framer-motion": "^4",
     "lodash": "^4.17.21",
     "next": "^12.1.6",
     "plop": "^3.1.1",
